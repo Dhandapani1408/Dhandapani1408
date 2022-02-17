@@ -15,7 +15,9 @@ Have good domain knowledge on Travel & AirLine, Banking & Financial Services.
 ![Java](https://img.shields.io/badge/-Java-e6e6e6?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-blue)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-e6e6e6?style=flat&logo=Selenium)&nbsp;
+![RestAssured](https://img.shields.io/static/v1?label=Rest&message=Assured&color=%3CCOLOR%3E)&nbsp;
 ![TestNG](https://img.shields.io/badge/TestNG-e6e6e6?style=flat&logo=testng)&nbsp;
+![SoapUI](https://img.shields.io/badge/SoapUI-green?style=flat&logo=SoapUI&logoColor=green)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-e6e6e6?style=flat&logo=Postman)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-e6e6e6?style=flat&logo=Jenkins)&nbsp;
 ![Maven](https://img.shields.io/badge/Maven-e6e6e6?style=flat&logo=maven)&nbsp;
