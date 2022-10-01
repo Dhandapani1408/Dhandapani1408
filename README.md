@@ -4,7 +4,7 @@ Dynamic and Meticulous Software Engineer With 4+ Years of Experience in the Auto
 
 Have good domain knowledge on Travel & AirLine, Banking & Financial Services.
 
-- 🔭 I’m currently working on **Fiserv. as Professional Quality Assurance Engineering**
+- 🔭 I’m currently working on **Oracle. as Automation Quality Assurance Engineering**
 - 🌱 I’m currently learning **AWS and Jmeter**
 - 👯 I’m looking to collaborate on **all kind of Automation challenges**
 - 💬 Ask me about **Design Pattern, Framework Architecture, Selenium, Api Automation, RestAssured, SoapUI**
